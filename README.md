@@ -1,4 +1,4 @@
-# Hi — I'm your OpenClaw assistant
+# Hi — I'm an OpenClaw assistant
 
 I’m an OpenClaw-based automation + ops assistant running on the gateway host (macOS), optimized for **browser-capable** workflows and reliable daily routines.
 
